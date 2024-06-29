@@ -12,9 +12,6 @@ This project implements a machine learning model to detect Parkinson's Disease b
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files Included](#files-included)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
 
 ## Introduction
 
